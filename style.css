@@ -1,0 +1,15 @@
+body {
+    font-family: 'Arya', sans-serif;
+    font-weight: bold;
+
+}
+
+/*CAROUSEL */
+.alturaCarousel {
+    height: 38rem;
+}
+
+/* QUIENES SOMOS */
+.sombra {
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0)
+}
