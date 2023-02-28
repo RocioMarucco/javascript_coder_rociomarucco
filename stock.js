@@ -7,5 +7,5 @@ let stockProductos = [
     {id: 6, nombre: "Ramo de Flores Secas", cantidad: 5, precio: 700, presentacion: "Grande", img: './imagenes/ramoDeFloresSecas.jpg'},]
 
 
-guardarLocal("stockProductos", JSON.stringify(stockProductos))
+// guardarLocal("stockProductos", JSON.stringify(stockProductos))
 
