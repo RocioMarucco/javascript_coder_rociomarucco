@@ -1,0 +1,62 @@
+[
+    {
+        "id": "aceite-esencial",
+        "titulo": "Aceite Esencial de Lavanda",
+        "imagen": "./img/aceiteLavanda.jpg",
+        "categoria": {
+            "nombre": "Aceite",
+            "id": "aceite"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "agua-micelar",
+        "titulo": "Agua Micelar",
+        "imagen": "./img/aguaMicelar.jpg",
+        "categoria": {
+            "nombre": "Agua",
+            "id": "agua"
+        },
+        "precio": 1800
+    },
+    {
+        "id": "ramo-flores-chico",
+        "titulo": "Ramo de Flores Secas Chico",
+        "imagen": "./img/ramoDeFloresSecas.jpg",
+        "categoria": {
+            "nombre": "Ramo de Flores",
+            "id": "ramo-de-flores"
+        },
+        "precio": 400
+    },
+    {
+        "id": "ramo-flores-grande",
+        "titulo": "Ramo de Flores Secas Grande",
+        "imagen": "./img/ramoDeFloresSecas.jpg",
+        "categoria": {
+            "nombre": "Ramo de Flores",
+            "id": "ramo-de-flores"
+        },
+        "precio": 700
+    },
+    {
+        "id": "vela-chica",
+        "titulo": "Vela Aromática Chica",
+        "imagen": "./img/velaAromatica.jpg",
+        "categoria": {
+            "nombre": "Vela",
+            "id": "vela"
+        },
+        "precio": 700
+    },
+    {
+        "id": "vela-grande",
+        "titulo": "Vela Aromática Grande",
+        "imagen": "./img/velaAromatica.jpg",
+        "categoria": {
+            "nombre": "Vela",
+            "id": "vela"
+        },
+        "precio": 1500
+    }
+]
